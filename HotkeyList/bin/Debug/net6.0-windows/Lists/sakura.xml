@@ -1,0 +1,7 @@
+<Table>
+  <Hotkey>
+    <Action>aaaa</Action>
+    <Key>Ctrl+A</Key>
+    <Send>^(a)</Send>
+  </Hotkey>
+</Table>

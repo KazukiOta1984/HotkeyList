@@ -1,0 +1,22 @@
+<Table>
+  <Hotkey>
+    <Action></Action>
+    <Key></Key>
+  </Hotkey>
+  <Hotkey>
+    <Action>PowerToys</Action>
+    <Key></Key>
+  </Hotkey>
+  <Hotkey>
+    <Action>常に最前面表示</Action>
+    <Key>Ctrl+Win+T</Key>
+  </Hotkey>
+  <Hotkey>
+    <Action>FancyZones</Action>
+    <Key>Ctrl+Win+W</Key>
+  </Hotkey>
+  <Hotkey>
+    <Action>ColorPicker</Action>
+    <Key>Shift+Win+C</Key>
+  </Hotkey>
+</Table>

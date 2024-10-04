@@ -1,0 +1,14 @@
+<Table>
+  <Hotkey>
+    <Action></Action>
+    <Key>ALT </Key>
+    <Send>%nsh</Send>
+  </Hotkey>
+</Table>
+
+<!-- SendはSendKeysへ送る引数を記述 -->
+<!-- Ctrl : ^ -->
+<!-- Shift : + -->
+<!-- Alt : % -->
+<!-- 例）Ctrl + Shift + N : ^+(n) -->
+<!-- ※ Winキーは送信不可 -->
